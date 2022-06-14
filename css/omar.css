@@ -1,0 +1,47 @@
+h1{font-size: 40px; 
+   color: rgb(151, 15, 15);
+   padding-left:  30%;
+   padding-top: 2.5%;
+   padding-bottom: 2.5%;}
+h2{ color: rgb(151, 15, 15);
+    font-size: 30px;}
+.p2{font-size: 20px;
+    margin-right: 2%;}
+.p1{font-size: 20px;
+    margin-right: 5%;}
+ul{font-size: 18px;}
+ol{font-size: 18px;}
+
+figure{padding-left: 3%;}
+.border{width: 250px;
+        border-width: 10px;
+        border-color: silver;
+        border-style: solid;
+        border-radius: 20%;}
+article{background-color: rgb(255, 234, 238);
+       padding-left: 5%; 
+       padding-bottom: 0.5%; 
+       padding-top: 0.5%;
+       margin-top: 2%;
+       margin-left: 5%; 
+       margin-right: 10%;
+       margin-bottom: 2%;
+       border-color:rgb(218, 211, 211) ;
+       border-width: 10px;
+       border-style: ridge;}
+section{font-size: 20px;
+       margin-top: 1%;
+       margin-left: 7%; 
+       margin-bottom: 0%;}
+hr{margin-left:5%;
+   margin-right: 35%;
+   border-color: rgb(72, 167, 135);
+   border-style: groove;}
+footer{padding-left: 7%;}
+.p3{ color: rgb(68, 5, 128);}
+#container{display: flex;
+           padding-left: 7%;}
+ .p4{font-size: 20px; padding-top: 50px;padding-left: 50px;}     
+ .p5{font-size: 20px; padding-top: 25px;padding-left: 50px;padding-bottom: 25px;}     
+.link{font-size: 20px ;padding-left: 50px;text-decoration: none; color: black;}
+figcaption{text-align: center; font-size: 20px;}
